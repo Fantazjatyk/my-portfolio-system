@@ -1,0 +1,15 @@
+pl\michal\szymanski\myportfiolio\webapp\configuration\Beans.class
+pl\michal\szymanski\myportfiolio\webapp\integration\PersonalInfoClient.class
+pl\michal\szymanski\myportfiolio\webapp\SpringInitializer.class
+pl\michal\szymanski\myportfiolio\webapp\configuration\MvcConfiguration.class
+pl\michal\szymanski\personalinfo\api\ProjectResource.class
+pl\michal\szymanski\personalinfo\api\MediaResource.class
+pl\michal\szymanski\myportfiolio\webapp\controller\ViewController.class
+pl\michal\szymanski\myportfiolio\webapp\configuration\WebConfiguration.class
+pl\michal\szymanski\personalinfo\api\ErrorResource.class
+pl\michal\szymanski\myportfiolio\webapp\configuration\ThymeleafConfiguration.class
+pl\michal\szymanski\myportfiolio\webapp\integration\PersonalInfoClientImpl.class
+pl\michal\szymanski\personalinfo\api\MeResource.class
+pl\michal\szymanski\personalinfo\api\SocialMediaProfileResource.class
+pl\michal\szymanski\personalinfo\api\ProjectsResource.class
+pl\michal\szymanski\myportfiolio\webapp\controller\ProjectController.class
